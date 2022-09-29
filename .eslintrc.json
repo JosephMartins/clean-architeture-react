@@ -8,5 +8,6 @@
     "@typescript-eslint/strict-boolean-expressions": "off",
     "@typescript-eslint/camelcase": "off",
     "no-unused-vars": "off",
+    "space-before-blocks": "off"
   }
 }

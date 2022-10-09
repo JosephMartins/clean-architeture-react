@@ -1,8 +1,8 @@
 ## Arquitetura limpa com React
 
-- O Objetivo deste projeto é colocar em prática o estudo em TESTES unitário, realizando desacoplamento de funcionalidades, testes e regras de negócio.
+- O Objetivo deste projeto é colocar em prática o estudo em TESTES unitário, realizando desacoplamento de funcionalidades, regras de negócio.
 
-
+Também serve como um boilerplate para novos projetos.
 
 > ## Princípios
 

@@ -1,5 +1,6 @@
-  <img src="https://primeincorporacoes.com.br/wp-content/uploads/2020/08/Como-escolher-um-arquiteto.jpg" width="350" title="hover text">
-
+<h1 align="center">
+  <img alt="" src="https://primeincorporacoes.com.br/wp-content/uploads/2020/08/Como-escolher-um-arquiteto.jpg">
+</h1>
 
 ## Arquitetura limpa com React
 

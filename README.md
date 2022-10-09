@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://primeincorporacoes.com.br/wp-content/uploads/2020/08/Como-escolher-um-arquiteto.jpg))
+![alt text]([http://url/to/img.png](https://primeincorporacoes.com.br/wp-content/uploads/2020/08/Como-escolher-um-arquiteto.jpg)
 
 ## Arquitetura limpa com React
 

@@ -55,11 +55,6 @@ Também serve como um boilerplate para novos projetos.
 
 > ## Features do Git
 
-* Branch
-* Reset
-* Stash
-* Rebase
-* Merge
 * Add
 * Commit
 * Push
@@ -69,8 +64,6 @@ Também serve como um boilerplate para novos projetos.
 
 * POO Avançado
 * Interface
-* Type Alias
-* Namespace
 * Module
 * Utility Types
 * Modularização de Paths

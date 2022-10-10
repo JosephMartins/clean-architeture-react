@@ -1,8 +1,12 @@
+<h1 align="center">
+  <img alt="" src="https://primeincorporacoes.com.br/wp-content/uploads/2020/08/Como-escolher-um-arquiteto.jpg">
+</h1>
+
 ## Arquitetura limpa com React
 
-- O Objetivo deste projeto é colocar em prática o estudo em TESTES unitário, realizando desacoplamento de funcionalidades, testes e regras de negócio.
+- O Objetivo deste projeto é colocar em prática o estudo em TESTES unitário, realizando desacoplamento de funcionalidades, regras de negócio.
 
-
+Também serve como um boilerplate para novos projetos.
 
 > ## Princípios
 
@@ -51,11 +55,6 @@
 
 > ## Features do Git
 
-* Branch
-* Reset
-* Stash
-* Rebase
-* Merge
 * Add
 * Commit
 * Push
@@ -65,8 +64,6 @@
 
 * POO Avançado
 * Interface
-* Type Alias
-* Namespace
 * Module
 * Utility Types
 * Modularização de Paths
